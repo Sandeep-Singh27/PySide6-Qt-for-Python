@@ -7,6 +7,9 @@ window_titles = [
     "My App 1",
     "My App 2",
     "My App 3",
+    "1",
+    "2",
+    "3",
     "Something went wrong"
 ]
 
